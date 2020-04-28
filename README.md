@@ -1,3 +1,4 @@
+Source https://github.com/javahometech/kubernetes
 # kubernetes-kops
 How to setup kops on aws and create cluster
 
